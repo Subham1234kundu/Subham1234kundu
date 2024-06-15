@@ -1,7 +1,7 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fn8agw6z2smyb1.gif)](https://subhamkundu.vercel.app/)
+[![MasterHead](https://666defdd1733a41f514db507--tangerine-travesseiro-3a26e2.netlify.app/photo/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)](https://subhamkundu.vercel.app/)
 <h1 align="center">Hi 👋, I'm Subham Kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align= "right" alt="coding" width="400" src="https://in.pinterest.com/pin/4222193391498919/">
+<img align= "right" alt="coding" width="400" src="https://666df1c919c45acfaf93310c--whimsical-smakager-c57083.netlify.app/photo/Dream%20_%20Kirokaze.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham1234kundu&label=Profile%20views&color=0e75b6&style=flat" alt="subham1234kundu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
